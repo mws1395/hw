@@ -100,7 +100,7 @@
 ---
     For the time being, however, the success of DOVU can be told by the performance of their DOV
     token in the market place. Currently, DOVU is ranked as the 889th largest cryptocurrency by market
-    cap per coinmarketcap.com(q) with a market cap of $13.4M. There are currently 5,447 holders. 
+    cap per coinmarketcap.com(d) with a market cap of $13.4M. There are currently 5,447 holders. 
     The top 10 holders currently own 72.3% of the total circulation. Such a centralization of the tokens
     is in-line with the early stages where which the project lies as it shows they're hoping to control
     price action while the market is incredibly volatile.
@@ -144,7 +144,15 @@
     (e) https://www.dovu.earth/news/project-three-4ty6a-5apgt
     (f) https://digiconomist.net/bitcoin-energy-consumption
     (g) https://www.wsj.com/articles/speculation-over-elon-musk-tweet-prompts-bitcoin-selloff-11621256366
-    
+    (h) https://climatetrade.com/
+    (i) https://www.cnbc.com/2021/05/26/iran-bans-bitcoin-mining-as-its-cities-suffer-blackouts.html
+    (j) https://www.reuters.com/article/uk-india-cryptocurrency-ban/india-to-propose-cryptocurrency-ban-penalising-miners-traders-source-idUSKBN2B60QP
+    (k) https://www.bloomberg.com/news/articles/2013-12-05/china-s-pboc-bans-financial-companies-from-bitcoin-transactions
+    (l) https://www.dovu.earth/news/hedera
+    (m) https://www.dovu.earth/news/earth-week-dovu-announces-a-strategic-partnership-with-ocean-protocol
+    (n) https://www.dovu.earth/news/dovu-and-poly-network-join-forces
+    (o) https://www.dovu.earth/news/dovu-and-raini-the-art-of-protecting-the-planet
+    (p) https://www.dovu.earth/news/partnershipwithshyft
     
     
     
